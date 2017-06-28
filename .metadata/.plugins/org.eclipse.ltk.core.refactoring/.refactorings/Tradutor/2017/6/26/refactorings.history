@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;palavraTraduzida&apos; in &apos;Tradutor.traduzirFrase(...)&apos; to &apos;palavraATraduzir&apos;&#x0A;- Original project: &apos;Tradutor&apos;&#x0A;- Original element: &apos;Tradutor.traduzirFrase(String).palavraTraduzida&apos;&#x0A;- Renamed element: &apos;palavraTraduzida&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;palavraTraduzida&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Tradutor.java[Tradutor~traduzirFrase~QString;@palavraTraduzida!601!633!608!623!QString;!0!false" name="palavraATraduzir" references="true" stamp="1498622431863" version="1.0"/>
+</session>
